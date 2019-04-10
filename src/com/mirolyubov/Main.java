@@ -37,4 +37,6 @@ public class Main {
     private void cherryPick() {
         System.out.println("до чери пик");
     }
+
+    //rebase master
 }
