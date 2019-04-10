@@ -9,4 +9,8 @@ public class Main {
     private void firstMethod() {
         System.out.println("first method and second commit");
     }
+
+    private void changeInMasterBranch() {
+        System.out.println("изменение в ветке мастер");
+    }
 }
