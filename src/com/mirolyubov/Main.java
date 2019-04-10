@@ -17,4 +17,8 @@ public class Main {
     private void dva() {
         System.out.println("метод в мастере");
     }
+
+    private  void tri() {
+        System.out.println("еще изменение в мастере");
+    }
 }
