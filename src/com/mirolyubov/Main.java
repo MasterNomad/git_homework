@@ -13,4 +13,8 @@ public class Main {
     private void changeInMasterBranch() {
         System.out.println("изменение в ветке мастер");
     }
+
+    private void raz() {
+        System.out.println("метод добавлен в ветке");
+    }
 }
