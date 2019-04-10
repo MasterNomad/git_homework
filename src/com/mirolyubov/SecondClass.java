@@ -15,7 +15,7 @@ public class SecondClass {
     }
 
     public void newMethod() {
-        System.out.println("перед слиянием мастер и новой ветки");
+        System.out.println("Антон изменил этот метод");
     }
 
 }
