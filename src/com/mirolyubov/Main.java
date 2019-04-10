@@ -13,4 +13,8 @@ public class Main {
     private void changeInMasterBranch() {
         System.out.println("изменение в ветке мастер");
     }
+
+    private void dva() {
+        System.out.println("метод в мастере");
+    }
 }
