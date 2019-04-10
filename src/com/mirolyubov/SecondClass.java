@@ -10,4 +10,8 @@ public class SecondClass {
         System.out.println("коммит в ветке перед слиянием");
     }
 
+    public void inNewBranch() {
+        System.out.println("новый бренч в newBranch");
+    }
+
 }
