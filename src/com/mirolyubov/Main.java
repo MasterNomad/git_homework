@@ -14,6 +14,10 @@ public class Main {
         System.out.println("изменение в ветке мастер");
     }
 
+    private void raz() {
+        System.out.println("метод добавлен в ветке");
+    }
+
     private void dva() {
         System.out.println("метод в мастере");
     }
