@@ -33,4 +33,8 @@ public class Main {
     private void mezhdu() {
         System.out.println("между черрипик");
     }
+
+    private void cherryPick() {
+        System.out.println("до чери пик");
+    }
 }
