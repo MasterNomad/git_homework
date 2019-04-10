@@ -6,4 +6,8 @@ public class SecondClass {
         System.out.println("new branch");
     }
 
+    public void inNewBranch() {
+        System.out.println("новый бренч в newBranch");
+    }
+
 }
