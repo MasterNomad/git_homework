@@ -6,4 +6,8 @@ public class SecondClass {
         System.out.println("new branch");
     }
 
+    public void commitInNewBranch() {
+        System.out.println("коммит в ветке перед слиянием");
+    }
+
 }
