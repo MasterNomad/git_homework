@@ -14,4 +14,8 @@ public class SecondClass {
         System.out.println("новый бренч в newBranch");
     }
 
+    public void newMethod() {
+        System.out.println("перед слиянием мастер и новой ветки");
+    }
+
 }
