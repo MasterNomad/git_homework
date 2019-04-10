@@ -25,4 +25,8 @@ public class Main {
     private  void tri() {
         System.out.println("еще изменение в мастере");
     }
+
+    private void cherryPick() {
+        System.out.println("до чери пик");
+    }
 }
