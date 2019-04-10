@@ -29,4 +29,8 @@ public class Main {
     private void cherryPick() {
         System.out.println("до чери пик");
     }
+
+    private void mezhdu() {
+        System.out.println("между черрипик");
+    }
 }
